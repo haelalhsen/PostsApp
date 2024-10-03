@@ -25,8 +25,8 @@ This application allows users to view and manage posts, comments, and user profi
 ### Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/jsonplaceholder_flutter_app.git
-   cd jsonplaceholder_flutter_app
+   git clone https://github.com/haelalhsen/PostsApp.git
+   cd PostsApp
    ```
 
 2. Install the dependencies:
